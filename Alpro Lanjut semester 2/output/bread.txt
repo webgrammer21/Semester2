@@ -1,0 +1,4 @@
+c  Floss_Roll               13   AKO                 14500     188500    
+f  Milky_Bun                6    AKO                 9000      54000     
+c  Floss_Roll               8    JAE                 14500     116000    
+i  Sugar_Pillow             10   JAE                 10000     100000    
